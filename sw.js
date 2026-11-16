@@ -1,6 +1,6 @@
 // Service worker de la invitación: la guarda para que abra rápido y también sin internet.
 // Si cambias algo en index.html, sube la versión (v1 -> v2) para que los celulares se actualicen.
-const CACHE = "xv-rafaella-v1";
+const CACHE = "xv-rafaella-v3";
 const ASSETS = ["./", "index.html", "manifest.webmanifest", "cenicienta.mp3",
   "icons/icon-192.png", "icons/icon-512.png", "icons/maskable-512.png", "icons/apple-touch-icon.png"];
 
