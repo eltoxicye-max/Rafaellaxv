@@ -1,0 +1,17 @@
+INVITACIÓN XV - RAFAELLA (PWA)
+
+Esta carpeta es la invitación lista para subir a internet. NO se abre bien tocando el archivo
+desde WhatsApp: hay que subirla a un hosting para que tenga un enlace (https://...).
+
+Cómo subirla gratis (la forma más fácil):
+1) Entra a https://app.netlify.com/drop desde una computadora.
+2) Arrastra la carpeta "invitacion-pwa" completa (descomprimida) a la página.
+3) Te da un enlace. Ese enlace es el que mandas por WhatsApp.
+
+Qué hace al abrirse con ese enlace:
+- Android (Chrome): sale un aviso "Instalar" para guardarla como app.
+- iPhone (Safari): toca Compartir > "Añadir a pantalla de inicio".
+- Después de abrirla una vez con internet, también abre sin conexión.
+
+Para cambiar datos (fecha, lugar, WhatsApp, pases) edita el bloque "EDITA AQUÍ" al final de index.html.
+Si cambias algo, abre sw.js y sube la versión (xv-rafaella-v1 -> v2) antes de volver a subir la carpeta.
